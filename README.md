@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samuehhh
+- 👋 Hi, I’m @SamuelRomeroUber
 - 👀 I’m interested in 
     enter this world of web development, while looking for a future job
 - 🌱 I’m currently learning JavaScript and Python
